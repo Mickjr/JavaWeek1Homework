@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package question2;
+
+/**
+ * @author Horton
+ *
+ */
+public class IfTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
